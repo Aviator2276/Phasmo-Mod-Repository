@@ -8,7 +8,7 @@
  * Create Additions
  * Origins
  * JourneyMaps
- * JEI
+ * REI
  * Mouse Tweaks
  * Supplementaries
  * JADE
@@ -29,6 +29,7 @@
  * Terralith
  * Simple Voice Chat
  * Sound Physics Remastered
+ * Amethyst Imbuement
 
 ## Dependancies / Libraries
  * bclib
@@ -46,3 +47,9 @@
  * Fusion (Connected Textures)
  * SuperMartijn642's Config Lib
  * SuperMartijn642's Core Lib
+ * Gecko Library
+ * Amethyst Core
+ * Kotlin
+ * Fzzy Core
+ * Trinkets
+ * Architectury API
