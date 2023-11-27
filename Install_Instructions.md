@@ -30,5 +30,7 @@ With some cutoff. We're focused on the ```-Xmx4G``` or whatever number it is set
 ![Alt Text](image.jpg?raw=true)
 
 ## 2. Install Mods
-Download the mods from this folder:
- * [Download from GitHub]()
+Download the mods from this GitHub Repository:
+ * [Download from GitHub](https://github.com/Aviator2276/Phasmo-Mod-Repository/archive/refs/heads/main.zip)
+
+Then extract all the contents of the downloaded folder. What you want is the ClientMods folder.
